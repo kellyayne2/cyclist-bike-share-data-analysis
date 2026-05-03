@@ -17,8 +17,7 @@ Note:
 - A cleaned sample dataset is provided in this repository
 
 ## Data Cleaning (Python)
-The raw data was provided in 12 separate monthly files and required preprocessing:
-- Combined all monthly datasets into one dataset using pd.concat()
+The dataset originally consisted of 12 monthly CSV files. These were concatenated into a single dataset using Python (pandas) to allow for unified analysis across the full year.
 - Removed duplicate records
 - Converted date columns to proper datetime format
 - Created new features:
@@ -39,4 +38,7 @@ Maximum threshold: ≤ 70 minutes
 This ensured that averages and distributions reflect typical usage patterns.
 
 ## Key Analysis and Visualisation
+<b> Page 1: User Behavior and Ride Patterns </b>
+This page focuses on overall user behavior, comparing casual riders and members across time, location, and ride duration.
+<b> Key Visuals
 
