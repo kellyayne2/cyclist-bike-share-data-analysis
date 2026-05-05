@@ -87,6 +87,7 @@ The Dashboard focuses on
 ## Bike_Usage Analysis
 ![Bike Usage Analysis](Bike_Usage_Analysis.png)
 
-
+## Autor
+Ikechukwu Caleb Mgbemeneh
 
 
