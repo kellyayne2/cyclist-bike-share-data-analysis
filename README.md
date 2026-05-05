@@ -85,7 +85,7 @@ The Dashboard focuses on
 ## Dashboard Overview
 ![Dashboard Overview](Dashboard_overview.png)
 ## Bike_Usage Analysis
-![Bike Usage Analysis](Bike_Usage Analysis.png)
+![Bike Usage Analysis](Bike_UsageAnalysis.png)
 
 
 
