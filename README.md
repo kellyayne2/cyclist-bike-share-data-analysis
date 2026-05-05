@@ -1,4 +1,4 @@
-# cyclist-bike-share-data-analysis
+# cyclistic-bike-share-data-analysis
 End-to-end data analytics project using Python and Power BI (DAX) to analyze cyclist ride data and uncover usage patterns.
 ## Project Overview
 This project analyzes 12 months of Cyclistic bike-share data to understand user behavior and identify strategies to convert casual riders into annual members.
