@@ -11,7 +11,7 @@ Cyclistic wants to increase the number of annual memberships. The Key question i
 ## Data Source
 Public bike trip data from Divvy (Chicago bike-share system), covering January–December 2024.
 The dataset used in this project is publicly available:
-[Cyclistic Bike-Share Dataset] (https://divvy-tripdata.s3.amazonaws.com/index.html)
+![Cyclistic Bike-Share Dataset] (https://divvy-tripdata.s3.amazonaws.com/index.html)
 Note:
 - Raw data is not included due to size limitations
 - A cleaned sample dataset is provided in this repository
@@ -82,6 +82,10 @@ The Dashboard focuses on
 - optimise bike avaliability at top stations especially during summer period
 - Focus marketing campaigns on casual users before summer to maximize peak demand
 - Offer incentives in winter to reduce the usage gap
+## Dashboard Overview
+![Dashboard Overview](Dashboard_overview.png)
+## Bike_Usage Analysis
+![Bike Usage Analysis](Bike_Usage Analysis.png)
 
 
 
